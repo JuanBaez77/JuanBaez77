@@ -44,10 +44,11 @@
 
 
 <hr>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanBaez77&theme=algolia&hide_border=true" alt="JuanBaez77"  /></p>
-
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=JuanBaez77&theme=algolia&hide_border=true&background=00000000" alt="JuanBaez77" />
+</p>
 <hr>
 <p align="center">
   <a href="https://www.linkedin.com/in/jjuan-baez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jjuan-baez/" height="30" width="40" /></a>
-  <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="35" width="35" /></a>
+  <a href="mailto:juanbaez77n@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="35" width="35" /></a>
 </p>
