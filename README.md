@@ -22,25 +22,24 @@
   💻 Languages
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,css,html,sql)](https://skillicons.dev)
-
+![My Skills](https://skillicons.dev/icons?i=py,js,css,html,sql)
 <h3>
   ⚙️ Frameworks & Libraries
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,fastapi,bootstrap,django,vite)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=react,fastapi,bootstrap,django,vite)
 
 <h3>
   🗃️ Databases & ORM
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
 
 <h3>
    🛠️ Tools & DevOps
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)
 
 
 <hr>
