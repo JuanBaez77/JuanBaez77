@@ -10,6 +10,7 @@
 <h2>
   About Me!
 </h2>
+![Juancito](./assets/juancito(1).png)
 <p>
   I'm 20 years old and currently studying programming at UTN. Throughout my academic journey, I have developed a strong passion for technology and programming. Additionally, I am a highly self-motivated individual, always looking for new ways to enhance my skills and learn independently.
 
