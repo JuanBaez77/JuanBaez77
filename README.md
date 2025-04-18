@@ -10,14 +10,12 @@
 <h2>
   About Me!
 </h2>
-<p align="left">
-    <img width="200" src="assets/juancito(1).png">
-</p>
+<img src="assets/juancito (1).png" width="50%" align="right" />
 <p>
   I'm 20 years old and currently studying programming at UTN. Throughout my academic journey, I have developed a strong passion for technology and programming. Additionally, I am a highly self-motivated individual, always looking for new ways to enhance my skills and learn independently.
 
   I am seeking work experience to grow as a programmer and apply my knowledge in real-world projects. My goal is to continue learning, improve my technical abilities, and contribute to the development of innovative solutions.
-</p>
+
 <br>
 
 <h2>Technologies</h2>
