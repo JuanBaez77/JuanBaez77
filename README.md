@@ -9,7 +9,7 @@
 <br>
 <h2>
   About Me!
-	<img src="assets/juanChibi (1).png" width="50%" align="right" />
+	<img src="assets/juanChibi (1).png" width="45%" align="right" />
 </h2>
 <p>
   I'm 20 years old and currently studying programming at UTN. Throughout my academic journey, I have developed a strong passion for technology and programming. Additionally, I am a highly self-motivated individual, always looking for new ways to enhance my skills and learn independently.
