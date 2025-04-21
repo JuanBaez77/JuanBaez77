@@ -1,3 +1,4 @@
+<img src="./assets/Banner_GitHub.png">
 <h1>
   Hi, I'm Juan Baez!
     <p align="left">
