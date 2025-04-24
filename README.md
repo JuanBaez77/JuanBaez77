@@ -1,3 +1,5 @@
+<img src='assets/aaa.png'>
+
 <h1>
   Hi, I'm Juan Baez!
     <p align="left">
