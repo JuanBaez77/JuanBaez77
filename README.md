@@ -1,4 +1,4 @@
-<img src='assets/aaa.png'>
+<img src='assets/Banner_juan.png'>
 
 <h1>
   Hi, I'm Juan Baez!
