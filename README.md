@@ -25,7 +25,7 @@
   💻 Languages
 </h3>
 
-![My Skills](https://skillicons.dev/icons?i=py,js,css,html,sql)
+![My Skills](https://skillicons.dev/icons?i=py,js,css,html,sql,ts)
 <h3>
   ⚙️ Frameworks & Libraries
 </h3>
