@@ -25,12 +25,12 @@
   💻 Languages
 </h3>
 
-![My Skills](https://skillicons.dev/icons?i=py,js,css,html,sql,ts)
+![My Skills](https://skillicons.dev/icons?i=py,js,css,html,ts)
 <h3>
   ⚙️ Frameworks & Libraries
 </h3>
 
-![My Skills](https://skillicons.dev/icons?i=react,fastapi,bootstrap,django,vite)
+![My Skills](https://skillicons.dev/icons?i=react,fastapi,bootstrap,django,vite,react-native)
 
 <h3>
   🗃️ Databases & ORM
