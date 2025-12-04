@@ -36,7 +36,7 @@
   🗃️ Databases & ORM
 </h3>
 
-![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prisma)
 
 <h3>
    🛠️ Tools & DevOps
