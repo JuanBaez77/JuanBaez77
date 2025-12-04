@@ -30,7 +30,7 @@
   ⚙️ Frameworks & Libraries
 </h3>
 
-![My Skills](https://skillicons.dev/icons?i=react,fastapi,bootstrap,django,vite,reactnative,nextjs)
+![My Skills](https://skillicons.dev/icons?i=react,fastapi,bootstrap,django,vite,nextjs)
 
 <h3>
   🗃️ Databases & ORM
